@@ -1,0 +1,6 @@
+jupyterlab==0.35.4
+pandas==0.23.4
+scikit-learn==0.20.2
+pylint==2.2.2
+pytest==4.3.0
+numpy==1.16.2
