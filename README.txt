@@ -42,7 +42,7 @@ Report Instructions
 Code Base Instructions 
 -----------------------------------
 • In terminal navigate to file directory
---> cd /Users/    
+--> cd ../Code Base/    
 
 • In terminal, install requirements.txt file
 --> pip install -r requirements.txt
@@ -69,7 +69,7 @@ Code Base Instructions
 Presentation Instructions
 -----------------------------------
 • Please view newest version of Presentation Deck
---> s404_NBA Twitter_gd_v2.0.pdf 
+--> Presentation/s404_NBA Twitter_gd_v2.0.pdf 
 
 
 
