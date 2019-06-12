@@ -33,7 +33,7 @@ Presentation
 Report Instructions 
 -----------------------------------
 • Please view newest version of Final Report
---> s404_final_report_nba_twitter_gd.pdf
+--> Report/s404_final_report_nba_twitter_gd.pdf
 
 • Report is 5 pages long with a 3 page Appendix of Python code
 
